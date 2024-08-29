@@ -15,22 +15,22 @@
 
 <hr>
 
-<h2 align="center">📊 GitHub Stats:</h2>
+<h2 align="center" style="color: #ffffff;">📊 GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=king-tri-ton&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=D10000&text_color=D10000&icon_color=D10000&locale=ru&show_icons=true" width="400"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=king-tri-ton&theme=dark&hide_border=true&locale=ru&dates=D10000&sideNums=D10000&currStreakLabel=D10000&fire=D10000&ring=D10000" width="400"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-tri-ton&theme=dark&hide_border=true&title_color=D10000&text_color=D10000&locale=ru&layout=compact&card_width=390" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=king-tri-ton&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=ffffff&text_color=ffffff&icon_color=ffffff&locale=ru&show_icons=true" width="400"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=king-tri-ton&theme=dark&hide_border=true&locale=ru&dates=ffffff&sideNums=ffffff&currStreakLabel=ffffff&fire=ffffff&ring=ffffff" width="400"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-tri-ton&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&locale=ru&layout=compact&card_width=390" width="400"/>
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center" style="color: #ffffff;">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=king-tri-ton&theme=dark&no-frame=true&no-bg=false&margin-w=4" width="400"/>
+  <img src="https://github-trophies.vercel.app/?username=king-tri-ton&theme=dark&no-frame=true&no-bg=false&margin-w=4" width="600"/>
 </p>
 
 <hr>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=king-tri-ton&icon=9&color=9" alt="Visitor Count"/>
+    <img src="https://visitcount.itsvg.in/api?id=king-tri-ton&icon=9&color=white" alt="Visitor Count"/>
   </a>
 </p>
 <hr>
