@@ -29,9 +29,4 @@
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=king-tri-ton&theme=dark&no-frame=true&no-bg=false&margin-w=4" width="600"/>
 </p>
-
-<hr>
-<p align="center" style="background-color: #333333; padding: 10px;">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fking-tri-ton&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="Посещения профиля"/>
-</p>
 <hr>
