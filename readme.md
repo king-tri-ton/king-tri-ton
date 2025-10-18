@@ -29,4 +29,3 @@
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=king-tri-ton&theme=dark&no-frame=true&no-bg=false&margin-w=4" width="600"/>
 </p>
-<hr>
