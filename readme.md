@@ -1,7 +1,7 @@
 <div>
   <h1>
-    Hi, I'm <a href="" target="_blank">Mikhail Sokolov (a.k.a King Triton)</a>
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+    Hi, I'm <a href="" target="_blank">Mikhail Sokolov</a> (a.k.a King Triton)
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>
   </h1>
   <h2>
     💻 Programmer specializing in Python and PHP/Laravel
@@ -29,7 +29,6 @@
     <strong>Node.js</strong>.
     <hr>
   </p>
-  <hr>
   <p>
     <h2>🤖 Telegram Bots</h2>
     <p>
@@ -52,9 +51,8 @@
       </li>
     </ul>
   </p>
-  <hr>
   <p>
-    <br><br>Additionally, I use 
+    <br>Additionally, I use 
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="20" height="20"/> 
     <strong>Figma</strong> for design and prototyping.
   </p>
