@@ -41,7 +41,7 @@
       </li>
       <li>
         <a href="https://t.me/DHoroBot" target="_blank">DHoroBot</a> - Open-source horoscope parser bot. Provides current horoscopes for all zodiac signs using data from horo.mail.ru.
-        <br>Usage statistics:
+        <br>Usage statistics (as of November 2, 2025):
         <ul>
           <li>Users: 258</li>
           <li>Groups/Chats/Forums: 47</li>
