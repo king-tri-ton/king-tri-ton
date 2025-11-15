@@ -28,31 +28,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="20" height="20"/> 
     <strong>Node.js</strong>.
     <hr>
-  </p>
-  <p>
-    <h2>🤖 Telegram Bots</h2>
-    <p>
-      I also develop Telegram bots. Here are some of my projects:
-    </p>
-    <ul>
-      <li>
-        <a href="https://t.me/ChatGPTTlgrmBot" target="_blank">ChatGPTTlgrmBot</a> - AI integration using OpenAI GPT-5 and Telegram Stars. Each AI request costs 1 star.
-      </li>
-      <li>
-        <a href="https://t.me/DHoroBot" target="_blank">DHoroBot</a> - Open-source horoscope parser bot. Provides current horoscopes for all zodiac signs using data from horo.mail.ru.
-        <br>Usage statistics (as of November 2, 2025):
-        <ul>
-          <li>Users: 258</li>
-          <li>Groups/Chats/Forums: 47</li>
-        </ul>
-      </li>
-      <li>
-        <a href="https://t.me/repeats_bot" target="_blank">RepeatsBot</a> - A simple echo bot made with ChatGPT-3, with over 1000 users.
-      </li>
-    </ul>
-  </p>
-  <p>
-    <hr>
     Additionally, I use 
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="20" height="20"/> 
     <strong>Figma</strong> for design and prototyping.
