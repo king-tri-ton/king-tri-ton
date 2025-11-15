@@ -27,8 +27,7 @@
     <br><br>I also have a basic understanding of 
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="20" height="20"/> 
     <strong>Node.js</strong>.
-    <hr>
-    Additionally, I use 
+    <br><br>Additionally, I use 
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="20" height="20"/> 
     <strong>Figma</strong> for design and prototyping.
   </p>
