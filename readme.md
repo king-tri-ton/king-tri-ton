@@ -5,7 +5,7 @@
   </h1>
 
   <hr>
-    <div style="background-color: rgba(255, 0, 0, 0.1); padding: 15px; border: 1px solid red; border-radius: 5px;">
+    <div align="center" style="background-color: rgba(255, 0, 0, 0.1); padding: 15px; border: 1px solid red; border-radius: 5px;">
       <h3 style="color: #ff4d4d; margin-top: 0;">⚠️ ВАЖНОЕ СООБЩЕНИЕ</h3>
       <p>
         Телеграм аккаунт <b>@lizamngr</b> — был взлом и мы в настоящее время не имеем к нему доступа, не переходите по ссылкам, не пишите туда, в ближайшее время появится новый менеджер.
@@ -15,7 +15,7 @@
       </p>
     </div>
   <hr>
-  
+
   <h2>
     💻 Programmer specializing in Python and PHP/Laravel
   </h2>
