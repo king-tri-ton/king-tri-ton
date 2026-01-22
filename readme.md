@@ -3,6 +3,19 @@
     Hi, I'm <a href="" target="_blank">Mikhail Sokolov</a> (a.k.a King Triton)
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   </h1>
+
+  <hr>
+    <div style="background-color: rgba(255, 0, 0, 0.1); padding: 15px; border: 1px solid red; border-radius: 5px;">
+      <h3 style="color: #ff4d4d; margin-top: 0;">⚠️ ВАЖНОЕ СООБЩЕНИЕ</h3>
+      <p>
+        Телеграм аккаунт <b>@lizamngr</b> — был взлом и мы в настоящее время не имеем к нему доступа, не переходите по ссылкам, не пишите туда, в ближайшее время появится новый менеджер.
+      </p>
+      <p>
+        <b>P.S.</b> все телеграм боты на данный момент НЕ работают, так как у меня нет сервера для них, благодарю за понимание...
+      </p>
+    </div>
+  <hr>
+  
   <h2>
     💻 Programmer specializing in Python and PHP/Laravel
   </h2>
@@ -36,7 +49,7 @@
 <h2 style="color: #ffffff;">📊 GitHub Stats:</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=king-tri-ton&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=ffffff&text_color=ffffff&icon_color=ffffff&locale=en&show_icons=true" width="400"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=king-tri-ton&theme=dark&hide_border=true" width="400"/><br/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=king-tri-ton&theme=dark&hide_border=true" width="400"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-tri-ton&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&locale=en&layout=compact&card_width=390" width="400"/>
 </p>
 <h2 style="color: #ffffff;">🏆 GitHub Trophies</h2>
